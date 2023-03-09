@@ -1,0 +1,21 @@
+apiVersion: v2
+kind: Pod
+metadata:
+  name: alpine
+  labels:
+    app: alpine
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      name: alpine
+  template:
+    metadata:
+      labels:
+        app: alpine
+  spec:
+    containers:
+      - name: alpine
+        image: alpine
+        stdin: true
+        tty: true
