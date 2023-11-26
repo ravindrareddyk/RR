@@ -392,4 +392,15 @@ body.showCart .container{
     .listProduct{
         grid-template-columns: repeat(1, 1fr);
     }
+	.container-xl{
+		background:linear-gradient(10deg,#b0baae,#acbaa4 90%);
+		padding: 1%;
+		margin: 20% auto;
+		box-shadow: 0 0px 0px rgba(0, 0, 0, 0.6);
+		border-radius: 25px;
+		justify-content: center;
+		display: flex;
+		align-items: center;
+		
+	}
 }
