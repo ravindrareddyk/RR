@@ -403,7 +403,7 @@ body.showCart .container{
 		align-items: center;
 	}
 .cartTab{
-    width: 370px;
+    width: 380px;
     background-color: #0e4d6f;
     color: #eee;
     position: fixed;
@@ -412,13 +412,13 @@ body.showCart .container{
     bottom: 0;
     padding: 10px;
     display: grid;
-    grid-template-rows: 60px 1fr 60px;
+    grid-template-rows: 70px 1fr 70px;
     transition: .5s;
 }
 	
  .listCart .item{
 	    display: grid;
-	    grid-template-columns: 80px 60px 30px 1fr;
+	    grid-template-columns: 80px 60px 40px 1fr;
 	    gap: 10px;
 	    text-align: center;
 	    align-items: center;
