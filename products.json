@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" WEDDING HOOPS",
+        "price": 100,
+        "image": "images/20.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Photo Hoops",
+        "price": 220,
+        "image": "images/21.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Portrait Hoops",
+        "price": 210,
+        "image": "images/22.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Baby Shower Hoops",
+        "price": 230,
+        "image": "images/23.jpg"
+    },
+
+    {
+        "id": 6,
+        "name":" EPOXY RESIN TIKKA PLATERS",
+        "price": 200,
+        "image": "images/24.jpg"
+    },
+    {
+        "id": 7,
+        "name":"WEDDING GARLAND FRAMES",
+        "price": 250,
+        "image": "images/25.jpg"
+    },
+    {
+        "id": 8,
+        "name":"WEDDING GARLAND FRAMES",
+        "price": 290,
+        "image": "images/27.jpg"
+    },
+    {
+        "id": 9,
+        "name":"RESIN CLOCK",
+        "price": 200,
+        "image": "images/28.jpg"
+    }
+]
