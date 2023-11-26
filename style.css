@@ -401,6 +401,12 @@ body.showCart .container{
 		justify-content: center;
 		display: flex;
 		align-items: center;
-		
+	}
+	.listCart .item{
+	    display: grid;
+	    grid-template-columns: 80px 60px 30px 1fr;
+	    gap: 10px;
+	    text-align: center;
+	    align-items: center;
 	}
 }
