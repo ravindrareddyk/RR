@@ -412,7 +412,7 @@ body.showCart .container{
     bottom: 0;
     padding: 10px;
     display: grid;
-    grid-template-rows: 50px 1fr 50px;
+    grid-template-rows: 60px 1fr 60px;
     transition: .5s;
 }
 	
