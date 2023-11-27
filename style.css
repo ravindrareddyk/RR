@@ -133,7 +133,7 @@ body {
 }
 .container{
     max-width: 100%;
-    margin:auto;
+    
 	
 }
 .header{
@@ -200,6 +200,7 @@ input[type=text] {
 	padding: 5px;
 	border-radius: 4px;
 	margin-right: 10px;
+    cursor: pointer;
   }
   .cart i{
 	width:10px;
@@ -295,9 +296,8 @@ h2 {
     color: #eee;
     border: none;
     padding: 2px 5px;
-    
     border-radius: 20px;
-	width: 100px;
+	font-size: 15px;
 }
 
 /* cart */
@@ -457,4 +457,10 @@ a.icon {
       display: block;
       text-align: left;
     }
+  }
+
+  footer{
+    color:white;
+    background-color: lightseagreen;
+    padding: 25px;
   }
